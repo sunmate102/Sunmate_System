@@ -8,5 +8,5 @@ const entryId = "2006623345-803p9Kyv";
 const requestSupportId = "2006623345-AMpl8b0z";
 const matchingId = "2006623345-JZmaA8yx";
 const clientMyPageId = "2006623345-kBW4pLzD";
-const gasDeployId = "1fx90l3w38kRyRV2iQIltZUAZ4-n2uq12FPtlnLI84YL2Vag_uqa9Pwww";
+const gasDeployId = "AKfycbwd1X3ki3RVrATXmdqPNfRlTzePLTo2_HB3DUGcaIfoTH6_n1e8BRLZZUoQBuYExl7f";
 export {registerClientId, registerGuideId, editGuideId, clientMessageId, guideMessageId, createReportId, entryId, requestSupportId, matchingId, clientMyPageId , gasDeployId}
